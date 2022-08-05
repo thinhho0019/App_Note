@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">notePT</string>
+    <string name="MyNotes">Ghi Chú</string>
+    <string name="findNote">Tìm kiếm..</string>
+    <string name="Createmynotes">Tạo ghi chú mới</string>
+</resources>
